@@ -1,7 +1,7 @@
 [
 	{
 		"preview":"https://www.tinygimp.com/mystatic/img/text-template/silver1.png",
-		"name":"Silver v1"
+		"name":"Silver v1",
 		"data":	{
 			"type": "i-text",
 			"version": "5.3.0",
