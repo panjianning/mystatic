@@ -484,184 +484,101 @@
     },
     {
         "data": {
+            "type": "i-text",
             "version": "5.3.0",
-            "objects": [
-                {
-                    "type": "rect",
-                    "version": "5.3.0",
-                    "originX": "left",
-                    "originY": "top",
-                    "left": 0,
-                    "top": 0,
-                    "width": 256,
-                    "height": 128,
-                    "fill": "rgba(255,255,255,0)",
-                    "stroke": null,
-                    "strokeWidth": 0,
-                    "strokeDashArray": null,
-                    "strokeLineCap": "butt",
-                    "strokeDashOffset": 0,
-                    "strokeLineJoin": "miter",
-                    "strokeUniform": false,
-                    "strokeMiterLimit": 4,
-                    "scaleX": 1,
-                    "scaleY": 1,
-                    "angle": 0,
-                    "flipX": false,
-                    "flipY": false,
-                    "opacity": 1,
-                    "shadow": null,
-                    "visible": true,
-                    "backgroundColor": "",
-                    "fillRule": "nonzero",
-                    "paintFirst": "fill",
-                    "globalCompositeOperation": "source-over",
-                    "skewX": 0,
-                    "skewY": 0,
-                    "erasable": false,
-                    "rx": 0,
-                    "ry": 0,
-                    "id": "workspace",
-                    "selectable": false,
-                    "hasControls": false
+            "originX": "center",
+            "originY": "center",
+            "left": 126.0447,
+            "top": 64,
+            "width": 399.7656,
+            "height": 180.8,
+            "fill": {
+                "type": "linear",
+                "coords": {
+                    "x1": 168.9453125,
+                    "y1": 0,
+                    "x2": 168.9453125,
+                    "y2": 180.79999999999998
                 },
-                {
-                    "type": "i-text",
-                    "version": "5.3.0",
-                    "originX": "center",
-                    "originY": "center",
-                    "left": 126.0447,
-                    "top": 64,
-                    "width": 399.7656,
-                    "height": 180.8,
-                    "fill": {
-                        "type": "linear",
-                        "coords": {
-                            "x1": 168.9453125,
-                            "y1": 0,
-                            "x2": 168.9453125,
-                            "y2": 180.79999999999998
-                        },
-                        "colorStops": [
-                            {
-                                "color": "rgba(135,135,135,1)",
-                                "offset": 0
-                            },
-                            {
-                                "color": "rgba(222,222,222,1)",
-                                "offset": 0.48
-                            },
-                            {
-                                "color": "rgba(209,209,209,1)",
-                                "offset": 0.51
-                            },
-                            {
-                                "color": "rgba(102,102,102,1)",
-                                "offset": 1
-                            }
-                        ],
-                        "offsetX": 0,
-                        "offsetY": 0,
-                        "gradientUnits": "pixels",
-                        "gradientTransform": null
+                "colorStops": [
+                    {
+                        "color": "rgba(135,135,135,1)",
+                        "offset": 0
                     },
-                    "stroke": "rgb(255, 255, 255)",
-                    "strokeWidth": 4,
-                    "strokeDashArray": null,
-                    "strokeLineCap": "butt",
-                    "strokeDashOffset": 0,
-                    "strokeLineJoin": "round",
-                    "strokeUniform": false,
-                    "strokeMiterLimit": 4,
-                    "scaleX": 0.5988,
-                    "scaleY": 0.5988,
-                    "angle": 0,
-                    "flipX": false,
-                    "flipY": false,
-                    "opacity": 1,
-                    "shadow": {
-                        "color": "rgb(0, 0, 0)",
-                        "blur": 7,
-                        "offsetX": 0,
-                        "offsetY": 0,
-                        "affectStroke": false,
-                        "nonScaling": false
+                    {
+                        "color": "rgba(222,222,222,1)",
+                        "offset": 0.48
                     },
-                    "visible": true,
-                    "backgroundColor": "",
-                    "fillRule": "nonzero",
-                    "paintFirst": "fill",
-                    "globalCompositeOperation": "source-over",
-                    "skewX": 0,
-                    "skewY": 0,
-                    "erasable": false,
-                    "fontFamily": "Times New Roman",
-                    "fontWeight": "bold",
-                    "fontSize": 160,
-                    "text": "Metal",
-                    "underline": false,
-                    "overline": false,
-                    "linethrough": false,
-                    "textAlign": "left",
-                    "fontStyle": "normal",
-                    "lineHeight": 1.16,
-                    "textBackgroundColor": "",
-                    "charSpacing": 0,
-                    "styles": [],
-                    "direction": "ltr",
-                    "path": null,
-                    "pathStartOffset": 0,
-                    "pathSide": "left",
-                    "pathAlign": "baseline",
-                    "filters": [
-                        {
-                            "type": "Noise",
-                            "noise": 26.4
-                        }
-                    ]
-                }
-            ],
-            "clipPath": {
-                "type": "rect",
-                "version": "5.3.0",
-                "originX": "left",
-                "originY": "top",
-                "left": 0,
-                "top": 0,
-                "width": 256,
-                "height": 128,
-                "fill": "rgba(255,255,255,0)",
-                "stroke": null,
-                "strokeWidth": 0,
-                "strokeDashArray": null,
-                "strokeLineCap": "butt",
-                "strokeDashOffset": 0,
-                "strokeLineJoin": "miter",
-                "strokeUniform": false,
-                "strokeMiterLimit": 4,
-                "scaleX": 1,
-                "scaleY": 1,
-                "angle": 0,
-                "flipX": false,
-                "flipY": false,
-                "opacity": 1,
-                "shadow": null,
-                "visible": true,
-                "backgroundColor": "",
-                "fillRule": "nonzero",
-                "paintFirst": "fill",
-                "globalCompositeOperation": "source-over",
-                "skewX": 0,
-                "skewY": 0,
-                "erasable": false,
-                "rx": 0,
-                "ry": 0,
-                "selectable": true,
-                "hasControls": true
+                    {
+                        "color": "rgba(209,209,209,1)",
+                        "offset": 0.51
+                    },
+                    {
+                        "color": "rgba(102,102,102,1)",
+                        "offset": 1
+                    }
+                ],
+                "offsetX": 0,
+                "offsetY": 0,
+                "gradientUnits": "pixels",
+                "gradientTransform": null
             },
-            "background": "rgba(0,0,0,0)"
-        },
-        "preview": "https://cdn.jsdelivr.net/gh/panjianning/mystatic/img/text-template/meta1.png",
+            "stroke": "rgb(255, 255, 255)",
+            "strokeWidth": 4,
+            "strokeDashArray": null,
+            "strokeLineCap": "butt",
+            "strokeDashOffset": 0,
+            "strokeLineJoin": "round",
+            "strokeUniform": false,
+            "strokeMiterLimit": 4,
+            "scaleX": 0.5988,
+            "scaleY": 0.5988,
+            "angle": 0,
+            "flipX": false,
+            "flipY": false,
+            "opacity": 1,
+            "shadow": {
+                "color": "rgb(0, 0, 0)",
+                "blur": 7,
+                "offsetX": 0,
+                "offsetY": 0,
+                "affectStroke": false,
+                "nonScaling": false
+            },
+            "visible": true,
+            "backgroundColor": "",
+            "fillRule": "nonzero",
+            "paintFirst": "fill",
+            "globalCompositeOperation": "source-over",
+            "skewX": 0,
+            "skewY": 0,
+            "erasable": false,
+            "fontFamily": "Times New Roman",
+            "fontWeight": "bold",
+            "fontSize": 160,
+            "text": "Metal",
+            "underline": false,
+            "overline": false,
+            "linethrough": false,
+            "textAlign": "left",
+            "fontStyle": "normal",
+            "lineHeight": 1.16,
+            "textBackgroundColor": "",
+            "charSpacing": 0,
+            "styles": [],
+            "direction": "ltr",
+            "path": null,
+            "pathStartOffset": 0,
+            "pathSide": "left",
+            "pathAlign": "baseline",
+            "filters": [
+                {
+                    "type": "Noise",
+                    "noise": 26.4
+                }
+            ]
+        }
+        "preview": "https://cdn.jsdelivr.net/gh/panjianning/mystatic/img/text-template/metal1.png",
         "name": "Metal V1"
     }
 ]
