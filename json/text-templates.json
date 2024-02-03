@@ -1,6 +1,6 @@
 [
     {
-        "preview": "https://cdn.jsdelivr.net/gh/panjianning/img/text-template/silver1.png",
+        "preview": "https://cdn.jsdelivr.net/gh/panjianning/mystatic/img/text-template/silver1.png",
         "name": "Silver v1",
         "data": {
             "type": "i-text",
@@ -76,7 +76,7 @@
         }
     },
     {
-        "preview": "https://cdn.jsdelivr.net/gh/panjianning/img/text-template/gold2.png",
+        "preview": "https://cdn.jsdelivr.net/gh/panjianning/mystatic/img/text-template/gold2.png",
         "name": "Gold V2",
         "data": {
             "type": "i-text",
@@ -144,7 +144,7 @@
         }
     },
     {
-        "preview": "https://cdn.jsdelivr.net/gh/panjianning/img/text-template/pink1.png",
+        "preview": "https://cdn.jsdelivr.net/gh/panjianning/mystatic/img/text-template/pink1.png",
         "name": "Pink v1",
         "data": {
             "type": "i-text",
@@ -212,7 +212,7 @@
         }
     },
     {
-        "preview": "https://cdn.jsdelivr.net/gh/panjianning/img/text-template/gold1.png",
+        "preview": "https://cdn.jsdelivr.net/gh/panjianning/mystatic/img/text-template/gold1.png",
         "name": "Gold v1",
         "data": {
             "type": "i-text",
@@ -385,7 +385,7 @@
             "pathAlign": "baseline",
             "filters": []
         },
-        "preview": "https://cdn.jsdelivr.net/gh/panjianning/img/text-template/silver2.png",
+        "preview": "https://cdn.jsdelivr.net/gh/panjianning/mystatic/img/text-template/silver2.png",
         "name": "Silver v2"
     },
     {
@@ -479,7 +479,7 @@
             "pathAlign": "baseline",
             "filters": []
         },
-        "preview": "https://cdn.jsdelivr.net/gh/panjianning/img/text-template/gold3.png",
+        "preview": "https://cdn.jsdelivr.net/gh/panjianning/mystatic/img/text-template/gold3.png",
         "name": "Gold V3"
     },
     {
@@ -661,7 +661,7 @@
             },
             "background": "rgba(0,0,0,0)"
         },
-        "preview": "https://cdn.jsdelivr.net/gh/panjianning/img/text-template/meta1.png",
+        "preview": "https://cdn.jsdelivr.net/gh/panjianning/mystatic/img/text-template/meta1.png",
         "name": "Metal V1"
     }
 ]
