@@ -1,8 +1,8 @@
 [
-    {
-        "preview": "https://cdn.jsdelivr.net/gh/panjianning/mystatic/img/text-template/gold_1.png",
-        "name": "Gold",
-        "data": {
+	{
+		"preview": "https://www.tinygimp.com/mystatic/img/text-template/gold_1.png",
+		"name": "Gold",
+		"data": {
 			"type": "i-text",
 			"version": "5.3.0",
 			"originX": "center",
@@ -66,11 +66,11 @@
 				}
 			]
 		}
-    },
-    {
-        "preview":"https://cdn.jsdelivr.net/gh/panjianning/mystatic/img/text-template/silver_1.png",
-        "name":"Silver",
-        "data": 		{
+	},
+	{
+		"preview": "https://www.tinygimp.com/mystatic/img/text-template/silver_1.png",
+		"name": "Silver",
+		"data": {
 			"type": "i-text",
 			"version": "5.3.0",
 			"originX": "center",
@@ -142,11 +142,11 @@
 				}
 			]
 		}
-    },
-    {
-        "preview":"https://cdn.jsdelivr.net/gh/panjianning/mystatic/img/text-template/bubble_1.png",
-        "name":"Bubble",
-        "data":	{
+	},
+	{
+		"preview": "https://www.tinygimp.com/mystatic/img/text-template/bubble_1.png",
+		"name": "Bubble",
+		"data": {
 			"type": "i-text",
 			"version": "5.3.0",
 			"originX": "center",
@@ -210,11 +210,11 @@
 				}
 			]
 		}
-    },
-    {
-        "preview":"https://cdn.jsdelivr.net/gh/panjianning/mystatic/img/text-template/gold_2.png",
-        "name":"Gold",
-        "data":		{
+	},
+	{
+		"preview": "https://www.tinygimp.com/mystatic/img/text-template/gold_2.png",
+		"name": "Gold",
+		"data": {
 			"type": "i-text",
 			"version": "5.3.0",
 			"originX": "center",
@@ -289,11 +289,11 @@
 				}
 			]
 		}
-    },
-    {
-        "preview":"https://cdn.jsdelivr.net/gh/panjianning/mystatic/img/text-template/silver_2.png",
-        "name":"Silver",
-        "data":		{
+	},
+	{
+		"preview": "https://www.tinygimp.com/mystatic/img/text-template/silver_2.png",
+		"name": "Silver",
+		"data": {
 			"type": "i-text",
 			"version": "5.3.0",
 			"originX": "center",
@@ -387,11 +387,11 @@
 			"pathAlign": "baseline",
 			"filters": []
 		}
-    },
-    {
-        "preview":"https://cdn.jsdelivr.net/gh/panjianning/mystatic/img/text-template/metal_1.png",
-        "name":"Metal",
-        "data":		{
+	},
+	{
+		"preview": "https://www.tinygimp.com/mystatic/img/text-template/metal_1.png",
+		"name": "Metal",
+		"data": {
 			"type": "i-text",
 			"version": "5.3.0",
 			"originX": "center",
@@ -486,11 +486,11 @@
 				}
 			]
 		}
-    },
-    {
-        "preview":"https://cdn.jsdelivr.net/gh/panjianning/mystatic/img/text-template/gold_3.png",
-        "name":"Gold",
-        "data":		{
+	},
+	{
+		"preview": "https://www.tinygimp.com/mystatic/img/text-template/gold_3.png",
+		"name": "Gold",
+		"data": {
 			"type": "i-text",
 			"version": "5.3.0",
 			"originX": "center",
@@ -580,11 +580,11 @@
 			"pathAlign": "baseline",
 			"filters": []
 		}
-    },
-    {
-        "preview":"https://cdn.jsdelivr.net/gh/panjianning/mystatic/img/text-template/fire_1.png",
-        "name":"fire",
-        "data":		{
+	},
+	{
+		"preview": "https://www.tinygimp.com/mystatic/img/text-template/fire_1.png",
+		"name": "fire",
+		"data": {
 			"type": "i-text",
 			"version": "5.3.0",
 			"originX": "center",
@@ -678,11 +678,11 @@
 				"blur": 20
 			}
 		}
-    },
-    {
-        "preview":"https://cdn.jsdelivr.net/gh/panjianning/mystatic/img/text-template/tiktok.png",
-        "name":"TikTok",
-        "data":		{
+	},
+	{
+		"preview": "https://www.tinygimp.com/mystatic/img/text-template/tiktok.png",
+		"name": "TikTok",
+		"data": {
 			"type": "i-text",
 			"version": "5.3.0",
 			"originX": "center",
@@ -754,11 +754,11 @@
 				"blur": 0
 			}
 		}
-    },
-    {
-        "preview":"https://cdn.jsdelivr.net/gh/panjianning/mystatic/img/text-template/neon_1.png",
-        "name":"NEON",
-        "data":		{
+	},
+	{
+		"preview": "https://www.tinygimp.com/mystatic/img/text-template/neon_1.png",
+		"name": "NEON",
+		"data": {
 			"type": "i-text",
 			"version": "5.3.0",
 			"originX": "center",
@@ -830,6 +830,5 @@
 				"blur": 21
 			}
 		}
-    }
-  
+	}
 ]
