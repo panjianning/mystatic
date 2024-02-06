@@ -784,7 +784,7 @@
 			"opacity": 1,
 			"shadow": {
 				"color": "rgb(251, 135, 158)",
-				"blur": 7,
+				"blur": 2,
 				"offsetX": 0,
 				"offsetY": 0,
 				"affectStroke": false,
@@ -821,13 +821,13 @@
 				"color": "rgb(251, 135, 158)",
 				"offsetX": 0,
 				"offsetY": 0,
-				"blur": 14
+				"blur": 4
 			},
 			"shadow2": {
 				"color": "rgb(251, 135, 158)",
 				"offsetX": 0,
 				"offsetY": 0,
-				"blur": 21
+				"blur": 8
 			}
 		}
 	}
