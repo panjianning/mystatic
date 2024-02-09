@@ -830,5 +830,104 @@
 				"blur": 8
 			}
 		}
+	},
+	{
+		"preview": "https://www.tinygimp.com/mystatic/img/text-template/silver_3.png",
+		"name": "Web Novel Title",
+		"data": {
+			"type": "i-text",
+			"version": "5.3.0",
+			"originX": "center",
+			"originY": "center",
+			"left": 122.3715,
+			"top": 65.7094,
+			"width": 640,
+			"height": 361.6,
+			"fill": "rgb(255, 255, 255)",
+			"stroke": null,
+			"strokeWidth": 1,
+			"strokeDashArray": null,
+			"strokeLineCap": "butt",
+			"strokeDashOffset": 0,
+			"strokeLineJoin": "round",
+			"strokeUniform": false,
+			"strokeMiterLimit": 4,
+			"scaleX": 0.3436,
+			"scaleY": 0.3436,
+			"angle": 0,
+			"flipX": false,
+			"flipY": false,
+			"opacity": 1,
+			"shadow": {
+				"color": "rgba(0,0,0,0)",
+				"blur": 0,
+				"offsetX": 0,
+				"offsetY": 0,
+				"affectStroke": false,
+				"nonScaling": false
+			},
+			"visible": true,
+			"backgroundColor": "",
+			"fillRule": "nonzero",
+			"paintFirst": "fill",
+			"globalCompositeOperation": "source-over",
+			"skewX": 0,
+			"skewY": 0,
+			"erasable": false,
+			"fontFamily": "三极泼墨体",
+			"fontWeight": "normal",
+			"fontSize": 320,
+			"text": "斗破",
+			"underline": false,
+			"overline": false,
+			"linethrough": false,
+			"textAlign": "left",
+			"fontStyle": "normal",
+			"lineHeight": 1.16,
+			"textBackgroundColor": "",
+			"charSpacing": 0,
+			"styles": [],
+			"direction": "ltr",
+			"path": null,
+			"pathStartOffset": 0,
+			"pathSide": "left",
+			"pathAlign": "baseline",
+			"filters": [
+				{
+					"type": "Bevel",
+					"blur": 0.1,
+					"blurQuality": 300,
+					"depth": 41,
+					"azimuth": 56,
+					"elevation": 42,
+					"opacityValue": 3.5,
+					"blendMode": "darken"
+				},
+				{
+					"type": "Noise",
+					"noise": 27.4
+				},
+				{
+					"type": "Contrast",
+					"contrast": 0.06
+				},
+				{
+					"type": "Brightness",
+					"brightness": 0.08
+				}
+			],
+			"shadow1": {
+				"color": "#00000000",
+				"offsetX": 0,
+				"offsetY": 0,
+				"blur": 0
+			},
+			"shadow2": {
+				"color": "#00000000",
+				"offsetX": 0,
+				"offsetY": 0,
+				"blur": 0
+			}
+		}
 	}
 ]
