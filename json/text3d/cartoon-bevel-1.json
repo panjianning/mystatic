@@ -1,0 +1,83 @@
+{
+    "description": "生成带有3D效果的可爱风格卡通字体，适合小说封面设计和海报设计等",
+    "title": "卡通3D文字 | 文字效果",
+    "tags": [
+        "卡通"
+    ],
+    "lang": "en",
+    "type": "text3d",
+    "state": {
+        "inputText": "斗破苍穹",
+        "openFontDrawer": false,
+        "perspectiveCamera": {
+            "fov": 45,
+            "position": {
+                "x": 0,
+                "y": -350,
+                "z": 1200
+            }
+        },
+        "orthographicCamera": {
+            "position": {
+                "x": 0,
+                "y": -200,
+                "z": 1200
+            }
+        },
+        "fontSize": 211,
+        "imageSize": 1000,
+        "fontName": "荆南波波黑",
+        "depth": 0,
+        "bevel": {
+            "enabled": true,
+            "thickness": 191,
+            "size": 29,
+            "offset": 0,
+            "segments": 24
+        },
+        "pointLight": {
+            "enabled": true,
+            "position": {
+                "x": -55,
+                "y": -200,
+                "z": 1200
+            }
+        },
+        "directionalLight": {
+            "enabled": true,
+            "position": {
+                "x": 0,
+                "y": 0,
+                "z": 1
+            },
+            "intensity": 1
+        },
+        "spotLight": {
+            "enabled": false,
+            "position": {
+                "x": 0,
+                "y": 0,
+                "z": 1200
+            }
+        },
+        "cameraType": "Perspective",
+        "mtlType": "MeshPhongMaterial",
+        "mtlColor": "#D4AF37",
+        "charSpacing": 19,
+        "lineSpacing": 22,
+        "meshPhong": {
+            "color": "rgb(252, 192, 46)",
+            "specular": "#222222",
+            "shininess": 100,
+            "flatShading": true
+        },
+        "meshStandard": {
+            "color": "rgb(170, 71, 188)",
+            "roughness": 0.7,
+            "metalness": 0.7
+        },
+        "meshToon": {
+            "color": "#D4AF37"
+        }
+    }
+}
