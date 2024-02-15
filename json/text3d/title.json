@@ -1,0 +1,84 @@
+{
+    "description": "3D特效标题字体生成器，适合小说封面设计和海报设计等",
+    "title": "3D特效标题生成器 | 文字效果",
+    "tags": [
+        "标题",
+        "3D"
+    ],
+    "lang": "zh",
+    "type": "text3d",
+    "state": {
+        "inputText": "优设\n标题圆",
+        "openFontDrawer": false,
+        "perspectiveCamera": {
+            "fov": 60,
+            "position": {
+                "x": 0,
+                "y": -172,
+                "z": 1200
+            }
+        },
+        "orthographicCamera": {
+            "position": {
+                "x": 0,
+                "y": -200,
+                "z": 1200
+            }
+        },
+        "fontSize": 293,
+        "imageSize": 1000,
+        "fontName": "YouSheBiaoTiYuan",
+        "depth": 687,
+        "bevel": {
+            "enabled": true,
+            "thickness": 241,
+            "size": 25,
+            "offset": -11,
+            "segments": 19
+        },
+        "pointLight": {
+            "enabled": true,
+            "position": {
+                "x": -301,
+                "y": 27,
+                "z": 1254
+            }
+        },
+        "directionalLight": {
+            "enabled": true,
+            "position": {
+                "x": 493,
+                "y": -247,
+                "z": -218
+            },
+            "intensity": 1.8
+        },
+        "spotLight": {
+            "enabled": false,
+            "position": {
+                "x": 0,
+                "y": 0,
+                "z": 1200
+            }
+        },
+        "cameraType": "Perspective",
+        "mtlType": "MeshStandardMaterial",
+        "mtlColor": "#D4AF37",
+        "charSpacing": 20,
+        "lineSpacing": 20,
+        "meshPhong": {
+            "color": "rgb(216, 27, 67)",
+            "specular": "rgb(0, 0, 0)",
+            "shininess": 101,
+            "flatShading": true
+        },
+        "meshStandard": {
+            "color": "rgb(235, 65, 101)",
+            "roughness": 0.55,
+            "metalness": 0.1
+        },
+        "meshToon": {
+            "color": "#D4AF37"
+        }
+    }
+}
