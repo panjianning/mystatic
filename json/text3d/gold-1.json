@@ -6,7 +6,7 @@
     ],
     "lang": "en",
     "type": "text3d",
-    "data": {
+    "state": {
         "inputText": "GOLD",
         "openFontDrawer": false,
         "perspectiveCamera": {
