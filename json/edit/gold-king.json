@@ -1,0 +1,687 @@
+{
+	"description": "King text effect, golden text effect, easy to edit",
+	"title": "King Text Effect | Font Generator",
+	"tags": [
+		"design",
+		"gold",
+		"king"
+	],
+	"lang": "en",
+	"type": "edit",
+	"data": {
+		"version": "5.3.0",
+		"objects": [
+			{
+				"type": "rect",
+				"version": "5.3.0",
+				"originX": "left",
+				"originY": "top",
+				"left": 0,
+				"top": 0,
+				"width": 1080,
+				"height": 1080,
+				"fill": "rgb(33, 33, 33)",
+				"stroke": null,
+				"strokeWidth": 0,
+				"strokeDashArray": null,
+				"strokeLineCap": "butt",
+				"strokeDashOffset": 0,
+				"strokeLineJoin": "miter",
+				"strokeUniform": false,
+				"strokeMiterLimit": 4,
+				"scaleX": 1,
+				"scaleY": 1,
+				"angle": 0,
+				"flipX": false,
+				"flipY": false,
+				"opacity": 1,
+				"shadow": null,
+				"visible": true,
+				"backgroundColor": "",
+				"fillRule": "nonzero",
+				"paintFirst": "fill",
+				"globalCompositeOperation": "source-over",
+				"skewX": 0,
+				"skewY": 0,
+				"erasable": false,
+				"rx": 0,
+				"ry": 0,
+				"id": "workspace",
+				"selectable": false,
+				"hasControls": true
+			},
+			{
+				"type": "i-text",
+				"version": "5.3.0",
+				"originX": "center",
+				"originY": "center",
+				"left": 540,
+				"top": 796.6279,
+				"width": 410.112,
+				"height": 216.96,
+				"fill": {
+					"type": "linear",
+					"coords": {
+						"x1": 205.056005859375,
+						"y1": 0,
+						"x2": 205.056005859375,
+						"y2": 216.95999999999995
+					},
+					"colorStops": [
+						{
+							"color": "rgba(207,172,69,1)",
+							"offset": 0
+						},
+						{
+							"color": "rgba(242,229,117,1)",
+							"offset": 0.23739999999999997
+						},
+						{
+							"color": "rgba(193,146,40,1)",
+							"offset": 0.45659999999999995
+						},
+						{
+							"color": "rgba(247,225,124,1)",
+							"offset": 0.6575
+						},
+						{
+							"color": "rgba(223,193,108,1)",
+							"offset": 0.8402
+						},
+						{
+							"color": "rgba(195,154,56,1)",
+							"offset": 1
+						}
+					],
+					"offsetX": 0,
+					"offsetY": 0,
+					"gradientUnits": "pixels",
+					"gradientTransform": null
+				},
+				"stroke": null,
+				"strokeWidth": 1,
+				"strokeDashArray": null,
+				"strokeLineCap": "butt",
+				"strokeDashOffset": 0,
+				"strokeLineJoin": "round",
+				"strokeUniform": false,
+				"strokeMiterLimit": 4,
+				"scaleX": 2.0304,
+				"scaleY": 2.0304,
+				"angle": 0,
+				"flipX": false,
+				"flipY": false,
+				"opacity": 1,
+				"shadow": "",
+				"visible": true,
+				"backgroundColor": "",
+				"fillRule": "nonzero",
+				"paintFirst": "fill",
+				"globalCompositeOperation": "source-over",
+				"skewX": 0,
+				"skewY": 0,
+				"erasable": false,
+				"fontFamily": "VARSITY TEAM",
+				"fontWeight": "normal",
+				"fontSize": 192,
+				"text": "KING",
+				"underline": false,
+				"overline": false,
+				"linethrough": false,
+				"textAlign": "left",
+				"fontStyle": "normal",
+				"lineHeight": 1.16,
+				"textBackgroundColor": "",
+				"charSpacing": 0,
+				"styles": [],
+				"direction": "ltr",
+				"path": null,
+				"pathStartOffset": 0,
+				"pathSide": "left",
+				"pathAlign": "baseline",
+				"filters": [],
+				"shadow1": {
+					"color": "#00000000",
+					"offsetX": 0,
+					"offsetY": 0,
+					"blur": 0
+				},
+				"shadow2": {
+					"color": "#00000000",
+					"offsetX": 0,
+					"offsetY": 0,
+					"blur": 0
+				}
+			},
+			{
+				"type": "rect",
+				"version": "5.3.0",
+				"originX": "left",
+				"originY": "top",
+				"left": 101.02,
+				"top": 51.7581,
+				"width": 726.11,
+				"height": 428.51,
+				"fill": {
+					"type": "linear",
+					"coords": {
+						"x1": 363.05,
+						"y1": 421.39,
+						"x2": 363.05,
+						"y2": -33.05
+					},
+					"colorStops": [
+						{
+							"offset": 0,
+							"color": "rgb(195,154,56)",
+							"opacity": 1
+						},
+						{
+							"offset": 0.17,
+							"color": "rgb(223,193,108)",
+							"opacity": 1
+						},
+						{
+							"offset": 0.36,
+							"color": "rgb(247,225,124)",
+							"opacity": 1
+						},
+						{
+							"offset": 0.56,
+							"color": "rgb(193,146,40)",
+							"opacity": 1
+						},
+						{
+							"offset": 0.8,
+							"color": "rgb(242,229,117)",
+							"opacity": 1
+						},
+						{
+							"offset": 1,
+							"color": "rgb(207,172,69)",
+							"opacity": 1
+						}
+					],
+					"offsetX": 0,
+					"offsetY": 0,
+					"gradientUnits": "pixels",
+					"gradientTransform": [
+						1,
+						0,
+						0,
+						1,
+						0,
+						0
+					]
+				},
+				"stroke": null,
+				"strokeWidth": 1,
+				"strokeDashArray": null,
+				"strokeLineCap": "butt",
+				"strokeDashOffset": 0,
+				"strokeLineJoin": "miter",
+				"strokeUniform": false,
+				"strokeMiterLimit": 4,
+				"scaleX": 1.1777,
+				"scaleY": 1.1777,
+				"angle": 0,
+				"flipX": false,
+				"flipY": false,
+				"opacity": 1,
+				"shadow": null,
+				"visible": true,
+				"backgroundColor": "",
+				"fillRule": "nonzero",
+				"paintFirst": "fill",
+				"globalCompositeOperation": "source-over",
+				"skewX": 0,
+				"skewY": 0,
+				"clipPath": {
+					"type": "path",
+					"version": "5.3.0",
+					"originX": "left",
+					"originY": "top",
+					"left": -363.555,
+					"top": -214.765,
+					"width": 726.11,
+					"height": 428.57,
+					"fill": "",
+					"stroke": null,
+					"strokeWidth": 1,
+					"strokeDashArray": null,
+					"strokeLineCap": "round",
+					"strokeDashOffset": 0,
+					"strokeLineJoin": "round",
+					"strokeUniform": false,
+					"strokeMiterLimit": 4,
+					"scaleX": 1,
+					"scaleY": 1,
+					"angle": 0,
+					"flipX": false,
+					"flipY": false,
+					"opacity": 1,
+					"shadow": null,
+					"visible": true,
+					"backgroundColor": "",
+					"fillRule": "evenodd",
+					"paintFirst": "fill",
+					"globalCompositeOperation": "source-over",
+					"skewX": 0,
+					"skewY": 0,
+					"erasable": false,
+					"id": "clip-path",
+					"selectable": true,
+					"hasControls": true,
+					"path": [
+						[
+							"M",
+							1728,
+							662.13
+						],
+						[
+							"L",
+							1745,
+							685.76
+						],
+						[
+							"L",
+							1728,
+							709.39
+						],
+						[
+							"L",
+							1711,
+							685.76
+						],
+						[
+							"Z"
+						],
+						[
+							"M",
+							1471.6,
+							662.13
+						],
+						[
+							"L",
+							1488.6,
+							685.76
+						],
+						[
+							"L",
+							1471.6,
+							709.39
+						],
+						[
+							"L",
+							1454.6,
+							685.76
+						],
+						[
+							"Z"
+						],
+						[
+							"M",
+							1599.8,
+							630.13
+						],
+						[
+							"L",
+							1628.24,
+							669.76
+						],
+						[
+							"L",
+							1599.8,
+							709.39
+						],
+						[
+							"L",
+							1571.36,
+							669.76
+						],
+						[
+							"Z"
+						],
+						[
+							"M",
+							1599.8,
+							374.2
+						],
+						[
+							"L",
+							1566,
+							444.14
+						],
+						[
+							"L",
+							1573.27,
+							478.61
+						],
+						[
+							"L",
+							1557.85,
+							478.61
+						],
+						[
+							"C",
+							1538.5034652134273,
+							478.61,
+							1522.82,
+							494.29346521342734,
+							1522.82,
+							513.6400000000001
+						],
+						[
+							"C",
+							1522.82,
+							532.9865347865727,
+							1538.5034652134273,
+							548.6700000000001,
+							1557.85,
+							548.6700000000001
+						],
+						[
+							"C",
+							1558.34,
+							548.6700000000001,
+							1558.85,
+							548.6700000000001,
+							1559.33,
+							548.6700000000001
+						],
+						[
+							"L",
+							1580,
+							548.6700000000001
+						],
+						[
+							"C",
+							1557.37,
+							619.6700000000001,
+							1496.8,
+							619.7700000000001,
+							1445.47,
+							582.5000000000001
+						],
+						[
+							"L",
+							1458.72,
+							541.3200000000002
+						],
+						[
+							"L",
+							1408.42,
+							515.6700000000002
+						],
+						[
+							"L",
+							1391.13,
+							569.4200000000002
+						],
+						[
+							"L",
+							1429.13,
+							588.8000000000002
+						],
+						[
+							"C",
+							1426.93,
+							632.2300000000001,
+							1368.19,
+							659.9600000000002,
+							1344.3700000000001,
+							630.9300000000002
+						],
+						[
+							"C",
+							1333.93,
+							618.2200000000001,
+							1324.2,
+							606.7700000000002,
+							1314.3700000000001,
+							596.5900000000001
+						],
+						[
+							"C",
+							1323.6582047319635,
+							593.2640426778131,
+							1329.2843347757175,
+							583.8197017125494,
+							1327.7864811053373,
+							574.0683339298225
+						],
+						[
+							"C",
+							1326.2886274349573,
+							564.3169661470956,
+							1318.0873596602437,
+							556.996575281518,
+							1308.2291382633584,
+							556.6115945782783
+						],
+						[
+							"C",
+							1298.370916866473,
+							556.2266138750385,
+							1289.6237481007663,
+							562.8851387958927,
+							1287.3700000000001,
+							572.4900000000001
+						],
+						[
+							"C",
+							1272.102552591828,
+							561.1280230808193,
+							1254.978221299339,
+							552.5032610842663,
+							1236.76,
+							547
+						],
+						[
+							"C",
+							1302.34,
+							596.48,
+							1349.83,
+							706.81,
+							1380.49,
+							802.77
+						],
+						[
+							"C",
+							1520.425565864239,
+							742.1597163072702,
+							1679.204434135761,
+							742.1597163072703,
+							1819.1399999999999,
+							802.77
+						],
+						[
+							"C",
+							1849.8,
+							706.77,
+							1897.29,
+							596.48,
+							1962.87,
+							547
+						],
+						[
+							"C",
+							1944.6609352549553,
+							552.512587745352,
+							1927.5469166999903,
+							561.1440352213733,
+							1912.29,
+							572.51
+						],
+						[
+							"C",
+							1910.0362518992338,
+							562.9051387958925,
+							1901.2890831335271,
+							556.2466138750384,
+							1891.4308617366416,
+							556.6315945782782
+						],
+						[
+							"C",
+							1881.5726403397564,
+							557.0165752815178,
+							1873.3713725650427,
+							564.3369661470955,
+							1871.8735188946628,
+							574.0883339298224
+						],
+						[
+							"C",
+							1870.3756652242826,
+							583.8397017125493,
+							1876.0017952680366,
+							593.2840426778129,
+							1885.29,
+							596.61
+						],
+						[
+							"C",
+							1875.45,
+							606.79,
+							1865.72,
+							618.24,
+							1855.29,
+							630.95
+						],
+						[
+							"C",
+							1831.47,
+							659.95,
+							1772.72,
+							632.25,
+							1770.53,
+							588.82
+						],
+						[
+							"L",
+							1808.53,
+							569.44
+						],
+						[
+							"L",
+							1791.24,
+							515.69
+						],
+						[
+							"L",
+							1740.94,
+							541.34
+						],
+						[
+							"L",
+							1754.19,
+							582.52
+						],
+						[
+							"C",
+							1702.8600000000001,
+							619.79,
+							1642.29,
+							619.66,
+							1619.66,
+							548.6899999999999
+						],
+						[
+							"L",
+							1640.2900000000002,
+							548.6899999999999
+						],
+						[
+							"C",
+							1640.7800000000002,
+							548.6899999999999,
+							1641.2900000000002,
+							548.6899999999999,
+							1641.7700000000002,
+							548.6899999999999
+						],
+						[
+							"C",
+							1661.1165347865729,
+							548.6899999999999,
+							1676.8000000000002,
+							533.0065347865726,
+							1676.8000000000002,
+							513.66
+						],
+						[
+							"C",
+							1676.8000000000002,
+							494.31346521342726,
+							1661.1165347865729,
+							478.62999999999994,
+							1641.7700000000002,
+							478.62999999999994
+						],
+						[
+							"L",
+							1626.3500000000001,
+							478.62999999999994
+						],
+						[
+							"L",
+							1633.6200000000001,
+							444.15999999999997
+						],
+						[
+							"Z"
+						]
+					],
+					"inverted": false,
+					"absolutePositioned": false
+				},
+				"erasable": false,
+				"rx": 0,
+				"ry": 0,
+				"id": "Layer_1",
+				"selectable": true,
+				"hasControls": true
+			}
+		],
+		"clipPath": {
+			"type": "rect",
+			"version": "5.3.0",
+			"originX": "left",
+			"originY": "top",
+			"left": 0,
+			"top": 0,
+			"width": 1080,
+			"height": 1080,
+			"fill": "rgb(33, 33, 33)",
+			"stroke": null,
+			"strokeWidth": 0,
+			"strokeDashArray": null,
+			"strokeLineCap": "butt",
+			"strokeDashOffset": 0,
+			"strokeLineJoin": "miter",
+			"strokeUniform": false,
+			"strokeMiterLimit": 4,
+			"scaleX": 1,
+			"scaleY": 1,
+			"angle": 0,
+			"flipX": false,
+			"flipY": false,
+			"opacity": 1,
+			"shadow": null,
+			"visible": true,
+			"backgroundColor": "",
+			"fillRule": "nonzero",
+			"paintFirst": "fill",
+			"globalCompositeOperation": "source-over",
+			"skewX": 0,
+			"skewY": 0,
+			"erasable": false,
+			"rx": 0,
+			"ry": 0,
+			"selectable": true,
+			"hasControls": true
+		},
+		"background": "rgba(0,0,0,0)"
+	}
+}
