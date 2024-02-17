@@ -1,1 +1,3 @@
-[{"id":"cartoon-1","type":"text3d","tags":["cartoon"]},{"id":"gold-1","type":"text3d","tags":["golden"]},{"id":"fire","type":"edit","tags":["fire"]}]
+[{"id":"cartoon-1","type":"text3d","tags":["cartoon"]},{"id":"gold-1","type":"text3d","tags":["golden"]},{"id":"fire","type":"edit","tags":["fire"]},
+{"id":"gold-king","type":"edit","tags":["design","golden","king"]}
+]
