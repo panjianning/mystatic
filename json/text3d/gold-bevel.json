@@ -1,0 +1,84 @@
+{
+    "description": "Versatile Golden Text Effect Generator, making your text shine in a stunning golden hue. Simply input the text you want to display on your webpage and our generator will create the corresponding golden effect to your liking, offering a perfect visual feast for your page. Equipped with user-friendly interface and one-click operation, anyone can easily use it. Free and no registration required, try our Golden Text Effect Generator now!",
+    "title": "Golden Text Effect Generator",
+    "tags": [
+        "golden",
+        "bevel"
+    ],
+    "lang": "en",
+    "type": "text3d",
+    "state": {
+        "inputText": "GOLD",
+        "openFontDrawer": false,
+        "perspectiveCamera": {
+            "fov": 45,
+            "position": {
+                "x": 0,
+                "y": -397,
+                "z": 1200
+            }
+        },
+        "orthographicCamera": {
+            "position": {
+                "x": 0,
+                "y": -200,
+                "z": 1200
+            }
+        },
+        "fontSize": 267,
+        "imageSize": 1000,
+        "fontName": "Arvo",
+        "depth": 0,
+        "bevel": {
+            "enabled": true,
+            "thickness": 396,
+            "size": 118,
+            "offset": 0,
+            "segments": 27
+        },
+        "pointLight": {
+            "enabled": true,
+            "position": {
+                "x": 0,
+                "y": 0,
+                "z": 1200
+            }
+        },
+        "directionalLight": {
+            "enabled": true,
+            "position": {
+                "x": 0,
+                "y": 0,
+                "z": 1
+            },
+            "intensity": 1
+        },
+        "spotLight": {
+            "enabled": false,
+            "position": {
+                "x": 0,
+                "y": 0,
+                "z": 1200
+            }
+        },
+        "cameraType": "Perspective",
+        "mtlType": "GoldMaterial",
+        "mtlColor": "#D4AF37",
+        "charSpacing": 43,
+        "lineSpacing": 20,
+        "meshPhong": {
+            "color": "#D4AF37",
+            "specular": "#222222",
+            "shininess": 70,
+            "flatShading": true
+        },
+        "meshStandard": {
+            "color": "#D4AF37",
+            "roughness": 0.7,
+            "metalness": 0.7
+        },
+        "meshToon": {
+            "color": "#D4AF37"
+        }
+    }
+}
