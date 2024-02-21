@@ -1,4 +1,5 @@
 [{"id":"cartoon-1","type":"text3d","tags":["cartoon"]},{"id":"gold-1","type":"text3d","tags":["golden"]},{"id":"fire","type":"edit","tags":["fire","text"]},
+    {"id":"gem","type":"text3d","tags":["diamond","gem"]},
   {"id":"gold-bevel","type":"text3d","tags":["bevel","golden"]},
 {"id":"gold-king","type":"edit","tags":["design","golden","king"]},
 {"id":"silver2","type":"edit","tags":["silver","text"]},
