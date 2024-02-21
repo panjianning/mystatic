@@ -1,0 +1,106 @@
+{
+    "description": "3D效果白银材质文字，具有金属感，适合小说封面设计和海报设计等",
+    "title": "白银金属文字生成器 | 文字效果",
+    "tags": [
+        "silver",
+        "白银"
+    ],
+    "lang": "zh",
+    "type": "text3d",
+    "state": {
+        "inputText": "吞噬星空",
+        "openFontDrawer": false,
+        "autoClip": true,
+        "perspectiveCamera": {
+            "fov": 45,
+            "position": {
+                "x": 0,
+                "y": -350,
+                "z": 1200
+            }
+        },
+        "orthographicCamera": {
+            "position": {
+                "x": 0,
+                "y": -200,
+                "z": 1200
+            }
+        },
+        "fontSize": 211,
+        "imageSize": 1000,
+        "fontName": "字体传奇特战体-免费商用",
+        "depth": 0,
+        "steps": 1,
+        "curveSegments": 12,
+        "bevel": {
+            "enabled": true,
+            "thickness": 130,
+            "size": 29,
+            "offset": 0,
+            "segments": 24
+        },
+        "pointLight": {
+            "enabled": true,
+            "position": {
+                "x": -55,
+                "y": -137,
+                "z": 1397
+            }
+        },
+        "directionalLight": {
+            "enabled": true,
+            "position": {
+                "x": 0,
+                "y": 0,
+                "z": 1
+            },
+            "intensity": 3.35
+        },
+        "spotLight": {
+            "enabled": false,
+            "position": {
+                "x": 0,
+                "y": 0,
+                "z": 1200
+            }
+        },
+        "cameraType": "Perspective",
+        "mtlType": "MeshPhysicalMaterial",
+        "mtlColor": "#D4AF37",
+        "charSpacing": 19,
+        "lineSpacing": 22,
+        "meshPhong": {
+            "color": "rgb(252, 192, 46)",
+            "specular": "#222222",
+            "shininess": 100,
+            "flatShading": true
+        },
+        "meshStandard": {
+            "color": "rgb(170, 71, 188)",
+            "roughness": 0.7,
+            "metalness": 0.7
+        },
+        "meshToon": {
+            "color": "#D4AF37"
+        },
+        "meshPhysical": {
+            "color": "rgb(255, 255, 255)",
+            "roughness": 0.7,
+            "metalness": 0.55,
+            "reflectivity": 0.45,
+            "transmission": 0,
+            "clearcoat": 0.5,
+            "clearcoatRoughness": 0.5,
+            "ior": 1.2,
+            "thickness": 10
+        },
+        "textureMap": {
+            "scale": 7.1,
+            "type": "builtin",
+            "id": "Silver",
+            "map": null
+        },
+        "pathOffset": 0,
+        "matcapColor": "#ffffff"
+    }
+}
