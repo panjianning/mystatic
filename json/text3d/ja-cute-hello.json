@@ -1,0 +1,105 @@
+{
+    "description": "カートゥーン3Dテキスト効果を1分間で生成",
+    "title": "カートゥーン3Dテキスト | テキスト効果",
+    "tags": [
+        "cartoon"
+    ],
+    "type": "text3d",
+    "lang": "ja",
+    "state": {
+        "inputText": "こんにちは",
+        "openFontDrawer": false,
+        "autoClip": true,
+        "perspectiveCamera": {
+            "fov": 45,
+            "position": {
+                "x": 0,
+                "y": -200,
+                "z": 1200
+            }
+        },
+        "orthographicCamera": {
+            "position": {
+                "x": 0,
+                "y": -200,
+                "z": 1200
+            }
+        },
+        "fontSize": 176,
+        "imageSize": 1000,
+        "fontName": "Memoir-Round",
+        "depth": 800,
+        "steps": 1,
+        "curveSegments": 12,
+        "bevel": {
+            "enabled": false,
+            "thickness": 200,
+            "size": 20,
+            "offset": 0,
+            "segments": 5
+        },
+        "pointLight": {
+            "enabled": true,
+            "position": {
+                "x": 0,
+                "y": 0,
+                "z": 1200
+            }
+        },
+        "directionalLight": {
+            "enabled": true,
+            "position": {
+                "x": 0,
+                "y": 0,
+                "z": 1
+            },
+            "intensity": 1
+        },
+        "spotLight": {
+            "enabled": false,
+            "position": {
+                "x": 0,
+                "y": 0,
+                "z": 1200
+            }
+        },
+        "cameraType": "Perspective",
+        "mtlType": "MeshToonMaterial",
+        "mtlColor": "#D4AF37",
+        "charSpacing": 20,
+        "lineSpacing": 20,
+        "meshPhong": {
+            "color": "#D4AF37",
+            "specular": "#222222",
+            "shininess": 70,
+            "flatShading": true
+        },
+        "meshStandard": {
+            "color": "#D4AF37",
+            "roughness": 0.7,
+            "metalness": 0.7
+        },
+        "meshToon": {
+            "color": "rgb(251, 135, 158)"
+        },
+        "meshPhysical": {
+            "color": "#D4AF37",
+            "roughness": 0.7,
+            "metalness": 0.7,
+            "reflectivity": 0,
+            "transmission": 1,
+            "clearcoat": 0.3,
+            "clearcoatRoughness": 0.25,
+            "ior": 1.2,
+            "thickness": 10
+        },
+        "textureMap": {
+            "scale": 1,
+            "type": "builtin",
+            "id": "None",
+            "map": null
+        },
+        "pathOffset": 0,
+        "matcapColor": "#ffffff"
+    }
+}
