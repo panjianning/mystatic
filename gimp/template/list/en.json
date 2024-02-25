@@ -1,15 +1,154 @@
-[{"id":"cartoon-1","type":"text3d","tags":["cartoon"]},{"id":"gold-1","type":"text3d","tags":["golden"]},{"id":"fire","type":"edit","tags":["fire","text"]},
-    {"id":"gem","type":"text3d","tags":["diamond","gem"]},
-        {"id":"silver-font","type":"text3d","tags":["silver","metal"]},
-    {"id":"rust","type":"text3d","tags":["silver","metal"]},
-  {"id":"gold-bevel","type":"text3d","tags":["bevel","golden"]},
-{"id":"gold-king","type":"edit","tags":["design","golden","king"]},
-{"id":"silver2","type":"edit","tags":["silver","text"]},
-{"id":"silver-gradient","type":"edit","tags":["silver","text"]},
-{"id":"metal-gradient","type":"edit","tags":["metal","text"]},
-{"id":"golden","type":"edit","tags":["golden","text"]},
-{"id":"noisy-gold","type":"edit","tags":["golden","text"]},
-{"id":"neon","type":"edit","tags":["neon","text"]},
-{"id":"pink","type":"edit","tags":["pink","cartoon","text"]},
-{"id":"valentine","type":"edit","tags":["valentine","text"]}
+[
+  {
+    "id": "gold-2024",
+    "type": "edit",
+    "tags": [
+      "text",
+      "golden"
+    ]
+  },
+  {
+    "id": "gold-proj",
+    "type": "edit",
+    "tags": [
+      "text",
+      "golden"
+    ]
+  },
+  {
+    "id": "wood",
+    "type": "edit",
+    "tags": [
+      "text",
+      "wood"
+    ]
+  },
+  {
+    "id": "cartoon-1",
+    "type": "text3d",
+    "tags": [
+      "cartoon"
+    ]
+  },
+  {
+    "id": "gold-1",
+    "type": "text3d",
+    "tags": [
+      "golden"
+    ]
+  },
+  {
+    "id": "fire",
+    "type": "edit",
+    "tags": [
+      "fire",
+      "text"
+    ]
+  },
+  {
+    "id": "gem",
+    "type": "text3d",
+    "tags": [
+      "diamond",
+      "gem"
+    ]
+  },
+  {
+    "id": "silver-font",
+    "type": "text3d",
+    "tags": [
+      "silver",
+      "metal"
+    ]
+  },
+  {
+    "id": "rust",
+    "type": "text3d",
+    "tags": [
+      "silver",
+      "metal"
+    ]
+  },
+  {
+    "id": "gold-bevel",
+    "type": "text3d",
+    "tags": [
+      "bevel",
+      "golden"
+    ]
+  },
+  {
+    "id": "gold-king",
+    "type": "edit",
+    "tags": [
+      "design",
+      "golden",
+      "king"
+    ]
+  },
+  {
+    "id": "silver2",
+    "type": "edit",
+    "tags": [
+      "silver",
+      "text"
+    ]
+  },
+  {
+    "id": "silver-gradient",
+    "type": "edit",
+    "tags": [
+      "silver",
+      "text"
+    ]
+  },
+  {
+    "id": "metal-gradient",
+    "type": "edit",
+    "tags": [
+      "metal",
+      "text"
+    ]
+  },
+  {
+    "id": "golden",
+    "type": "edit",
+    "tags": [
+      "golden",
+      "text"
+    ]
+  },
+  {
+    "id": "noisy-gold",
+    "type": "edit",
+    "tags": [
+      "golden",
+      "text"
+    ]
+  },
+  {
+    "id": "neon",
+    "type": "edit",
+    "tags": [
+      "neon",
+      "text"
+    ]
+  },
+  {
+    "id": "pink",
+    "type": "edit",
+    "tags": [
+      "pink",
+      "cartoon",
+      "text"
+    ]
+  },
+  {
+    "id": "valentine",
+    "type": "edit",
+    "tags": [
+      "valentine",
+      "text"
+    ]
+  }
 ]

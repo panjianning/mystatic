@@ -1,0 +1,261 @@
+{
+	"description": "Curate intricate, wood-effect text with 3D projection, providing a rustic and appealing visual experience. Perfect for sprucing up posters, banners, or social media posts, it captivates attention and boosts interaction.",
+	"title": "3D Embossed Wood Effect Text | Enhancing Textual Display",
+	"tags": [
+		"text",
+		"wood"
+	],
+	"lang": "en",
+	"type": "edit",
+	"data": {
+		"version": "5.3.0",
+		"objects": [
+			{
+				"type": "rect",
+				"version": "5.3.0",
+				"originX": "left",
+				"originY": "top",
+				"left": 0,
+				"top": 0,
+				"width": 1024,
+				"height": 512,
+				"fill": "rgb(76, 176, 80)",
+				"stroke": null,
+				"strokeWidth": 0,
+				"strokeDashArray": null,
+				"strokeLineCap": "butt",
+				"strokeDashOffset": 0,
+				"strokeLineJoin": "miter",
+				"strokeUniform": false,
+				"strokeMiterLimit": 4,
+				"scaleX": 1,
+				"scaleY": 1,
+				"angle": 0,
+				"flipX": false,
+				"flipY": false,
+				"opacity": 1,
+				"shadow": null,
+				"visible": true,
+				"backgroundColor": "",
+				"fillRule": "nonzero",
+				"paintFirst": "fill",
+				"globalCompositeOperation": "source-over",
+				"skewX": 0,
+				"skewY": 0,
+				"erasable": false,
+				"rx": 0,
+				"ry": 0,
+				"id": "workspace",
+				"selectable": false,
+				"hasControls": true
+			},
+			{
+				"type": "i-text",
+				"version": "5.3.0",
+				"originX": "center",
+				"originY": "center",
+				"left": 477.8378,
+				"top": 244.6168,
+				"width": 394.0625,
+				"height": 180.8,
+				"fill": {
+					"type": "linear",
+					"coords": {
+						"x1": 367.192,
+						"y1": 23.503999999999998,
+						"x2": 75.20800000000001,
+						"y2": 157.296
+					},
+					"colorStops": [
+						{
+							"color": "rgba(235,119,19,1)",
+							"offset": 0
+						},
+						{
+							"color": "rgba(219,134,0,1)",
+							"offset": 0.2045
+						},
+						{
+							"color": "rgba(245,193,30,1)",
+							"offset": 0.2364
+						},
+						{
+							"color": "rgba(245,193,30,1)",
+							"offset": 0.32270000000000004
+						},
+						{
+							"color": "rgba(219,134,0,1)",
+							"offset": 0.35450000000000004
+						},
+						{
+							"color": "rgba(219,134,0,1)",
+							"offset": 0.4682
+						},
+						{
+							"color": "rgba(245,193,30,1)",
+							"offset": 0.4955
+						},
+						{
+							"color": "rgba(245,193,30,1)",
+							"offset": 0.5727
+						},
+						{
+							"color": "rgba(219,134,0,1)",
+							"offset": 0.6045
+						},
+						{
+							"color": "rgba(219,134,0,1)",
+							"offset": 0.7273000000000001
+						},
+						{
+							"color": "rgba(245,193,30,1)",
+							"offset": 0.7591
+						},
+						{
+							"color": "rgba(245,193,30,1)",
+							"offset": 0.8591
+						},
+						{
+							"color": "rgba(219,134,0,1)",
+							"offset": 0.8955
+						},
+						{
+							"color": "rgba(219,134,0,1)",
+							"offset": 1
+						}
+					],
+					"offsetX": 0,
+					"offsetY": 0,
+					"gradientUnits": "pixels",
+					"gradientTransform": null
+				},
+				"stroke": "rgba(0, 0, 0, 0)",
+				"strokeWidth": 0,
+				"strokeDashArray": null,
+				"strokeLineCap": "butt",
+				"strokeDashOffset": 0,
+				"strokeLineJoin": "round",
+				"strokeUniform": false,
+				"strokeMiterLimit": 4,
+				"scaleX": 2.1307,
+				"scaleY": 2.1307,
+				"angle": 0,
+				"flipX": false,
+				"flipY": false,
+				"opacity": 1,
+				"shadow": {
+					"color": "rgba(0, 0, 0, 0)",
+					"blur": 5,
+					"offsetX": 0,
+					"offsetY": 0,
+					"affectStroke": false,
+					"nonScaling": false
+				},
+				"visible": true,
+				"backgroundColor": "",
+				"fillRule": "nonzero",
+				"paintFirst": "fill",
+				"globalCompositeOperation": "source-over",
+				"skewX": 0,
+				"skewY": 0,
+				"erasable": false,
+				"fontFamily": "Super Sunday",
+				"fontWeight": "normal",
+				"fontSize": 160,
+				"text": "Wood",
+				"underline": false,
+				"overline": false,
+				"linethrough": false,
+				"textAlign": "center",
+				"fontStyle": "normal",
+				"lineHeight": 1.16,
+				"textBackgroundColor": "",
+				"charSpacing": 0,
+				"styles": [],
+				"direction": "ltr",
+				"path": null,
+				"pathStartOffset": 0,
+				"pathSide": "left",
+				"pathAlign": "baseline",
+				"filters": [],
+				"shadow1": {
+					"color": "#00000000",
+					"offsetX": 0,
+					"offsetY": 0,
+					"blur": 0
+				},
+				"shadow2": {
+					"color": "#00000000",
+					"offsetX": 0,
+					"offsetY": 0,
+					"blur": 0
+				},
+				"stroke1": {
+					"stroke": "rgb(255, 255, 255)",
+					"strokeWidth": 5,
+					"strokeDashArray": null,
+					"strokeLineCap": "butt",
+					"strokeLineJoin": "round",
+					"strokeMiterLimit": 1,
+					"strokeUniform": true
+				},
+				"projection1": {
+					"depth": 6,
+					"fill": "rgb(163, 86, 19)",
+					"fillStrategy": "interpolation",
+					"surfaceFill": "#00000000",
+					"step": 0.5
+				},
+				"projection2": {
+					"depth": 7,
+					"fill": "linear-gradient(90deg, rgba(5, 88, 86, 1) 0%, rgba(5, 88, 86, 1) 17.73%, rgba(8, 125, 129, 1) 34.55%, rgba(8, 179, 227, 1) 50.91%, rgba(8, 179, 227, 1) 62.27%, rgba(5, 88, 86, 1) 82.73%, rgba(5, 88, 86, 1) 99.55%)",
+					"fillStrategy": "layerwise",
+					"surfaceFill": "#00000000",
+					"step": 0.5
+				},
+				"projectionStepSize": 0.5,
+				"charwiseGradient": false,
+				"projectionDirection": 45
+			}
+		],
+		"clipPath": {
+			"type": "rect",
+			"version": "5.3.0",
+			"originX": "left",
+			"originY": "top",
+			"left": 0,
+			"top": 0,
+			"width": 1024,
+			"height": 512,
+			"fill": "rgb(76, 176, 80)",
+			"stroke": null,
+			"strokeWidth": 0,
+			"strokeDashArray": null,
+			"strokeLineCap": "butt",
+			"strokeDashOffset": 0,
+			"strokeLineJoin": "miter",
+			"strokeUniform": false,
+			"strokeMiterLimit": 4,
+			"scaleX": 1,
+			"scaleY": 1,
+			"angle": 0,
+			"flipX": false,
+			"flipY": false,
+			"opacity": 1,
+			"shadow": null,
+			"visible": true,
+			"backgroundColor": "",
+			"fillRule": "nonzero",
+			"paintFirst": "fill",
+			"globalCompositeOperation": "source-over",
+			"skewX": 0,
+			"skewY": 0,
+			"erasable": false,
+			"rx": 0,
+			"ry": 0,
+			"selectable": true,
+			"hasControls": true
+		},
+		"background": "rgba(0,0,0,0)"
+	}
+}
