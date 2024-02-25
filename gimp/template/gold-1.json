@@ -1,0 +1,83 @@
+{
+    "description": "Instantly create 3D gold effect text, perfect for posters and social media",
+    "title": "Golden 3D Text | Text Effect",
+    "tags": [
+        "golden"
+    ],
+    "lang": "en",
+    "type": "text3d",
+    "state": {
+        "inputText": "GOLD",
+        "openFontDrawer": false,
+        "perspectiveCamera": {
+            "fov": 35,
+            "position": {
+                "x": 630,
+                "y": -445,
+                "z": 1200
+            }
+        },
+        "orthographicCamera": {
+            "position": {
+                "x": 0,
+                "y": -200,
+                "z": 1200
+            }
+        },
+        "fontSize": 354,
+        "imageSize": 1000,
+        "fontName": "Varsity Team",
+        "depth": 141,
+        "bevel": {
+            "enabled": true,
+            "thickness": 200,
+            "size": 20,
+            "offset": 0,
+            "segments": 15
+        },
+        "pointLight": {
+            "enabled": true,
+            "position": {
+                "x": 0,
+                "y": 0,
+                "z": 1200
+            }
+        },
+        "directionalLight": {
+            "enabled": true,
+            "position": {
+                "x": 0,
+                "y": 0,
+                "z": 1
+            },
+            "intensity": 1
+        },
+        "spotLight": {
+            "enabled": false,
+            "position": {
+                "x": 0,
+                "y": 0,
+                "z": 1200
+            }
+        },
+        "cameraType": "Perspective",
+        "mtlType": "GoldMaterial",
+        "mtlColor": "#D4AF37",
+        "charSpacing": 20,
+        "lineSpacing": 20,
+        "meshPhong": {
+            "color": "#D4AF37",
+            "specular": "#222222",
+            "shininess": 70,
+            "flatShading": true
+        },
+        "meshStandard": {
+            "color": "#D4AF37",
+            "roughness": 0.7,
+            "metalness": 0.7
+        },
+        "meshToon": {
+            "color": "#D4AF37"
+        }
+    }
+}

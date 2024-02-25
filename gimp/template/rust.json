@@ -1,0 +1,106 @@
+{
+    "description": "Experience the potency of text transformation with our Rust effect text generator. Perfect for creating metallic, decayed, and weather-worn aesthetics in your graphics.",
+    "title": "Rust Font Generator | Text Effect",
+    "tags": [
+        "metal",
+        "rust"
+    ],
+    "lang": "en",
+    "type": "text3d",
+    "state": {
+        "inputText": "Rust",
+        "openFontDrawer": false,
+        "autoClip": true,
+        "perspectiveCamera": {
+            "fov": 45,
+            "position": {
+                "x": 0,
+                "y": -200,
+                "z": 1200
+            }
+        },
+        "orthographicCamera": {
+            "position": {
+                "x": 0,
+                "y": -200,
+                "z": 1200
+            }
+        },
+        "fontSize": 240,
+        "imageSize": 1000,
+        "fontName": "Varsity Team",
+        "depth": 0,
+        "steps": 1,
+        "curveSegments": 12,
+        "bevel": {
+            "enabled": true,
+            "thickness": 227,
+            "size": 25,
+            "offset": 0,
+            "segments": 22
+        },
+        "pointLight": {
+            "enabled": true,
+            "position": {
+                "x": 94,
+                "y": 35,
+                "z": 1200
+            }
+        },
+        "directionalLight": {
+            "enabled": true,
+            "position": {
+                "x": 0,
+                "y": 0,
+                "z": 1
+            },
+            "intensity": 1
+        },
+        "spotLight": {
+            "enabled": false,
+            "position": {
+                "x": 0,
+                "y": 0,
+                "z": 1200
+            }
+        },
+        "cameraType": "Perspective",
+        "mtlType": "MeshPhysicalMaterial",
+        "mtlColor": "#D4AF37",
+        "charSpacing": 20,
+        "lineSpacing": 20,
+        "meshPhong": {
+            "color": "#D4AF37",
+            "specular": "#222222",
+            "shininess": 70,
+            "flatShading": true
+        },
+        "meshStandard": {
+            "color": "rgb(255, 255, 255)",
+            "roughness": 0.7,
+            "metalness": 0.7
+        },
+        "meshToon": {
+            "color": "#D4AF37"
+        },
+        "meshPhysical": {
+            "color": "rgb(255, 255, 255)",
+            "roughness": 0.45,
+            "metalness": 0.6,
+            "reflectivity": 0.1,
+            "transmission": 0.35,
+            "clearcoat": 0.3,
+            "clearcoatRoughness": 0.25,
+            "ior": 1.4,
+            "thickness": 10
+        },
+        "textureMap": {
+            "scale": 4.8,
+            "type": "builtin",
+            "id": "Rust",
+            "map": null
+        },
+        "pathOffset": -17,
+        "matcapColor": "#ffffff"
+    }
+}

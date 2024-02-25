@@ -1,0 +1,106 @@
+{
+    "description": "Welcome to the Diamond Text Effect Generator. Input your text and watch it transform into a diamond-studded spectacle. Our simple, one-click interface makes it easy. Use our generator for a sparkling text effect. No registration required. It’s entirely free. Try it now.",
+    "title": "Diamond Text Effect Generator",
+    "tags": [
+        "diamond",
+        "gem"
+    ],
+    "lang": "en",
+    "type": "text3d",
+    "state": {
+        "inputText": "GEM",
+        "openFontDrawer": false,
+        "autoClip": true,
+        "perspectiveCamera": {
+            "fov": 45,
+            "position": {
+                "x": 0,
+                "y": -200,
+                "z": 1200
+            }
+        },
+        "orthographicCamera": {
+            "position": {
+                "x": 0,
+                "y": -200,
+                "z": 1200
+            }
+        },
+        "fontSize": 240,
+        "imageSize": 1000,
+        "fontName": "LEMON MILK Bold",
+        "depth": 967,
+        "steps": 1,
+        "curveSegments": 12,
+        "bevel": {
+            "enabled": false,
+            "thickness": 200,
+            "size": 20,
+            "offset": 0,
+            "segments": 5
+        },
+        "pointLight": {
+            "enabled": true,
+            "position": {
+                "x": 94,
+                "y": 35,
+                "z": 1200
+            }
+        },
+        "directionalLight": {
+            "enabled": true,
+            "position": {
+                "x": 0,
+                "y": 0,
+                "z": 1
+            },
+            "intensity": 1
+        },
+        "spotLight": {
+            "enabled": false,
+            "position": {
+                "x": 0,
+                "y": 0,
+                "z": 1200
+            }
+        },
+        "cameraType": "Perspective",
+        "mtlType": "MeshPhysicalMaterial",
+        "mtlColor": "#D4AF37",
+        "charSpacing": 20,
+        "lineSpacing": 20,
+        "meshPhong": {
+            "color": "#D4AF37",
+            "specular": "#222222",
+            "shininess": 70,
+            "flatShading": true
+        },
+        "meshStandard": {
+            "color": "rgb(255, 255, 255)",
+            "roughness": 0.7,
+            "metalness": 0.7
+        },
+        "meshToon": {
+            "color": "#D4AF37"
+        },
+        "meshPhysical": {
+            "color": "rgb(222, 222, 222)",
+            "roughness": 0.7,
+            "metalness": 0.7,
+            "reflectivity": 0,
+            "transmission": 1,
+            "clearcoat": 0.3,
+            "clearcoatRoughness": 0.25,
+            "ior": 1.2,
+            "thickness": 10
+        },
+        "textureMap": {
+            "scale": 3.4,
+            "type": "builtin",
+            "id": "Gem",
+            "map": null
+        },
+        "pathOffset": 0,
+        "matcapColor": "#ffffff"
+    }
+}
