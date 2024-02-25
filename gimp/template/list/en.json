@@ -16,6 +16,24 @@
     ]
   },
   {
+    "id": "pop",
+    "type": "edit",
+    "tags": [
+      "text",
+      "comic",
+      "pop"
+    ]
+  },
+  {
+    "id": "wow-comic",
+    "type": "edit",
+    "tags": [
+      "text",
+      "comic",
+      "wow"
+    ]
+  },
+  {
     "id": "wood",
     "type": "edit",
     "tags": [
