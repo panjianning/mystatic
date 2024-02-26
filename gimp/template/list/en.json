@@ -25,6 +25,15 @@
     ]
   },
   {
+    "id": "purple-pop",
+    "type": "edit",
+    "tags": [
+      "text",
+      "comic",
+      "pop"
+    ]
+  },
+  {
     "id": "wow-comic",
     "type": "edit",
     "tags": [
