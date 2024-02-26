@@ -1,0 +1,237 @@
+{
+	"version": "5.3.0",
+	"objects": [
+		{
+			"type": "rect",
+			"version": "5.3.0",
+			"originX": "left",
+			"originY": "top",
+			"left": 0,
+			"top": 0,
+			"width": 1024,
+			"height": 512,
+			"fill": "rgba(0, 0, 0, 0)",
+			"stroke": null,
+			"strokeWidth": 0,
+			"strokeDashArray": null,
+			"strokeLineCap": "butt",
+			"strokeDashOffset": 0,
+			"strokeLineJoin": "miter",
+			"strokeUniform": false,
+			"strokeMiterLimit": 4,
+			"scaleX": 1,
+			"scaleY": 1,
+			"angle": 0,
+			"flipX": false,
+			"flipY": false,
+			"opacity": 1,
+			"shadow": null,
+			"visible": true,
+			"backgroundColor": "",
+			"fillRule": "nonzero",
+			"paintFirst": "fill",
+			"globalCompositeOperation": "source-over",
+			"skewX": 0,
+			"skewY": 0,
+			"erasable": false,
+			"rx": 0,
+			"ry": 0,
+			"id": "workspace",
+			"selectable": false,
+			"hasControls": true
+		},
+		{
+			"type": "i-text",
+			"version": "5.3.0",
+			"originX": "center",
+			"originY": "center",
+			"left": 450.5441,
+			"top": 222.4302,
+			"width": 505.9731,
+			"height": 180.8,
+			"fill": {
+				"type": "linear",
+				"coords": {
+					"x1": 177.734375,
+					"y1": 0,
+					"x2": 177.734375,
+					"y2": 180.79999999999998
+				},
+				"colorStops": [
+					{
+						"color": "rgba(255,224,75,1)",
+						"offset": 0
+					},
+					{
+						"color": "rgba(252,229,90,1)",
+						"offset": 0.13699999999999998
+					},
+					{
+						"color": "rgba(244,209,69,1)",
+						"offset": 0.3881
+					},
+					{
+						"color": "rgba(221,152,29,1)",
+						"offset": 0.5068
+					},
+					{
+						"color": "rgba(235,193,53,1)",
+						"offset": 0.6393
+					},
+					{
+						"color": "rgba(251,239,75,1)",
+						"offset": 1
+					}
+				],
+				"offsetX": 0,
+				"offsetY": 0,
+				"gradientUnits": "pixels",
+				"gradientTransform": null
+			},
+			"stroke": "rgb(255, 255, 255)",
+			"strokeWidth": 5,
+			"strokeDashArray": [
+				12,
+				6
+			],
+			"strokeLineCap": "butt",
+			"strokeDashOffset": 0,
+			"strokeLineJoin": "round",
+			"strokeUniform": false,
+			"strokeMiterLimit": 4,
+			"scaleX": 1.3139,
+			"scaleY": 1.3139,
+			"angle": 0,
+			"flipX": false,
+			"flipY": false,
+			"opacity": 1,
+			"shadow": {
+				"color": "rgba(0, 0, 0, 0)",
+				"blur": 5,
+				"offsetX": 2,
+				"offsetY": 5,
+				"affectStroke": false,
+				"nonScaling": false
+			},
+			"visible": true,
+			"backgroundColor": "",
+			"fillRule": "nonzero",
+			"paintFirst": "fill",
+			"globalCompositeOperation": "source-over",
+			"skewX": 0,
+			"skewY": 0,
+			"erasable": false,
+			"fontFamily": "LEMON MILK Medium",
+			"fontWeight": "normal",
+			"fontSize": 160,
+			"text": "2024",
+			"underline": false,
+			"overline": false,
+			"linethrough": false,
+			"textAlign": "center",
+			"fontStyle": "normal",
+			"lineHeight": 1.16,
+			"textBackgroundColor": "",
+			"charSpacing": 149,
+			"styles": [],
+			"direction": "ltr",
+			"path": null,
+			"pathStartOffset": 0,
+			"pathSide": "left",
+			"pathAlign": "baseline",
+			"filters": [],
+			"shadow1": {
+				"color": "#00000000",
+				"offsetX": 0,
+				"offsetY": 0,
+				"blur": 0
+			},
+			"shadow2": {
+				"color": "#00000000",
+				"offsetX": 0,
+				"offsetY": 0,
+				"blur": 0
+			},
+			"stroke0": {
+				"stroke": "rgb(255, 235, 60)",
+				"strokeWidth": 14,
+				"strokeDashArray": null,
+				"strokeLineCap": "round",
+				"strokeLineJoin": "round",
+				"strokeMiterLimit": 1,
+				"strokeUniform": true
+			},
+			"stroke1": {
+				"stroke": "rgb(255, 255, 255)",
+				"strokeWidth": 24,
+				"strokeDashArray": null,
+				"strokeLineCap": "butt",
+				"strokeLineJoin": "round",
+				"strokeMiterLimit": 1,
+				"strokeUniform": true
+			},
+			"projection1": {
+				"depth": 0,
+				"fill": "linear-gradient(0deg, rgba(133, 46, 8, 1) 0%, rgba(231, 161, 64, 1) 44.29%, rgba(253, 224, 92, 1) 73.52%, rgba(133, 46, 8, 1) 91.78%)",
+				"fillStrategy": "layerwise",
+				"surfaceFill": "#00000000",
+				"step": 0.5
+			},
+			"projection2": {
+				"depth": 19,
+				"fill": "linear-gradient(70deg, rgba(133, 46, 8, 1) 0%, rgba(231, 161, 64, 1) 44.29%, rgba(253, 224, 92, 1) 73.52%, rgba(133, 46, 8, 1) 91.78%)",
+				"fillStrategy": "layerwise",
+				"surfaceFill": "#00000000",
+				"step": 0.5
+			},
+			"projectionStepSize": 0.5,
+			"charwiseGradient": true,
+			"projectionDirection": 55,
+			"patternConf": {
+				"imgSource": "https://www.tinygimp.com/mystatic/texture/white-dot.png",
+				"scale": 1,
+				"opacity": 0.5
+			},
+			"avoidFilterClip": 0.9
+		}
+	],
+	"clipPath": {
+		"type": "rect",
+		"version": "5.3.0",
+		"originX": "left",
+		"originY": "top",
+		"left": 0,
+		"top": 0,
+		"width": 1024,
+		"height": 512,
+		"fill": "rgba(0, 0, 0, 0)",
+		"stroke": null,
+		"strokeWidth": 0,
+		"strokeDashArray": null,
+		"strokeLineCap": "butt",
+		"strokeDashOffset": 0,
+		"strokeLineJoin": "miter",
+		"strokeUniform": false,
+		"strokeMiterLimit": 4,
+		"scaleX": 1,
+		"scaleY": 1,
+		"angle": 0,
+		"flipX": false,
+		"flipY": false,
+		"opacity": 1,
+		"shadow": null,
+		"visible": true,
+		"backgroundColor": "",
+		"fillRule": "nonzero",
+		"paintFirst": "fill",
+		"globalCompositeOperation": "source-over",
+		"skewX": 0,
+		"skewY": 0,
+		"erasable": false,
+		"rx": 0,
+		"ry": 0,
+		"selectable": true,
+		"hasControls": true
+	},
+	"background": "rgba(0,0,0,0)"
+}
