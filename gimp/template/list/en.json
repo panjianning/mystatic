@@ -82,6 +82,39 @@
     ]
   },
   {
+    "id": "gold-gem",
+    "type": "edit",
+    "tags": [
+      "golden",
+      "text",
+      "gem"
+    ]
+  },
+  {
+    "id": "curve-gold",
+    "type": "edit",
+    "tags": [
+      "golden",
+      "text"
+    ]
+  },
+  {
+    "id": "flame",
+    "type": "edit",
+    "tags": [
+      "fire",
+      "text"
+    ]
+  },
+  {
+    "id": "pink-white",
+    "type": "edit",
+    "tags": [
+      "comic",
+      "text"
+    ]
+  },
+  {
     "id": "fire",
     "type": "edit",
     "tags": [

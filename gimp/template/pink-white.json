@@ -1,0 +1,248 @@
+{
+	"description": "Turn your phrases into vibrant artworks with the pink and white comic font generator. Imbue your text with a playful charm suggested by pink and the purity of white. Perfect for making your social media posts, headers, and children’s publications capture attention and stir joy.",
+	"title": "Pink and White Comic Font Generator | Fun Text Effect",
+	"tags": [
+		"comic",
+		"text"
+	],
+	"lang": "en",
+	"type": "edit",
+	"data": {
+		"version": "5.3.0",
+		"objects": [
+			{
+				"type": "rect",
+				"version": "5.3.0",
+				"originX": "left",
+				"originY": "top",
+				"left": 0,
+				"top": 0,
+				"width": 1024,
+				"height": 512,
+				"fill": {
+					"type": "linear",
+					"coords": {
+						"x1": 1,
+						"y1": 0.45,
+						"x2": 0,
+						"y2": 0.55
+					},
+					"colorStops": [
+						{
+							"color": "rgba(255,255,255,1)",
+							"offset": 0
+						},
+						{
+							"color": "rgba(255,171,145,1)",
+							"offset": 1
+						}
+					],
+					"offsetX": 0,
+					"offsetY": 0,
+					"gradientUnits": "percentage",
+					"gradientTransform": null
+				},
+				"stroke": null,
+				"strokeWidth": 0,
+				"strokeDashArray": null,
+				"strokeLineCap": "butt",
+				"strokeDashOffset": 0,
+				"strokeLineJoin": "miter",
+				"strokeUniform": false,
+				"strokeMiterLimit": 4,
+				"scaleX": 1,
+				"scaleY": 1,
+				"angle": 0,
+				"flipX": false,
+				"flipY": false,
+				"opacity": 1,
+				"shadow": null,
+				"visible": true,
+				"backgroundColor": "",
+				"fillRule": "nonzero",
+				"paintFirst": "fill",
+				"globalCompositeOperation": "source-over",
+				"skewX": 0,
+				"skewY": 0,
+				"erasable": false,
+				"rx": 0,
+				"ry": 0,
+				"id": "workspace",
+				"selectable": false,
+				"hasControls": true
+			},
+			{
+				"type": "i-text",
+				"version": "5.3.0",
+				"originX": "center",
+				"originY": "center",
+				"left": 484.4308,
+				"top": 241.4334,
+				"width": 484.3477,
+				"height": 207.92,
+				"fill": "rgb(255, 255, 255)",
+				"stroke": null,
+				"strokeWidth": 1,
+				"strokeDashArray": null,
+				"strokeLineCap": "butt",
+				"strokeDashOffset": 0,
+				"strokeLineJoin": "round",
+				"strokeUniform": false,
+				"strokeMiterLimit": 4,
+				"scaleX": 1.5748,
+				"scaleY": 1.5748,
+				"angle": 0,
+				"flipX": false,
+				"flipY": false,
+				"opacity": 1,
+				"shadow": {
+					"color": "rgba(0, 0, 0, 0)",
+					"blur": 0,
+					"offsetX": 6,
+					"offsetY": 7,
+					"affectStroke": false,
+					"nonScaling": false
+				},
+				"visible": true,
+				"backgroundColor": "",
+				"fillRule": "nonzero",
+				"paintFirst": "fill",
+				"globalCompositeOperation": "source-over",
+				"skewX": 0,
+				"skewY": 0,
+				"erasable": false,
+				"fontFamily": "Sochi2014",
+				"fontWeight": "normal",
+				"fontSize": 184,
+				"text": "White",
+				"underline": false,
+				"overline": false,
+				"linethrough": false,
+				"textAlign": "left",
+				"fontStyle": "normal",
+				"lineHeight": 1.16,
+				"textBackgroundColor": "",
+				"charSpacing": 0,
+				"styles": [],
+				"direction": "ltr",
+				"path": null,
+				"pathStartOffset": 0,
+				"pathSide": "left",
+				"pathAlign": "baseline",
+				"filters": [],
+				"shadow1": {
+					"color": "#00000000",
+					"offsetX": 0,
+					"offsetY": 0,
+					"blur": 0
+				},
+				"shadow2": {
+					"color": "#00000000",
+					"offsetX": 0,
+					"offsetY": 0,
+					"blur": 0
+				},
+				"stroke0": {
+					"stroke": "#00000000",
+					"strokeWidth": 0,
+					"strokeDashArray": null,
+					"strokeLineCap": "round",
+					"strokeLineJoin": "round",
+					"strokeMiterLimit": 4,
+					"strokeUniform": true
+				},
+				"stroke1": {
+					"stroke": "rgb(255, 61, 100)",
+					"strokeWidth": 20,
+					"strokeDashArray": null,
+					"strokeLineCap": "round",
+					"strokeLineJoin": "round",
+					"strokeMiterLimit": 4,
+					"strokeUniform": true
+				},
+				"projection1": {
+					"depth": 15,
+					"fill": "linear-gradient(90deg, rgba(176, 176, 176, 1) 0%, rgba(245, 245, 245, 1) 100%)",
+					"fillStrategy": "interpolation",
+					"surfaceFill": "#00000000"
+				},
+				"projection2": {
+					"depth": 21,
+					"fill": "linear-gradient(90deg, rgba(178, 10, 44, 1) 0%, rgba(255, 61, 100, 1) 33%, rgba(255, 255, 255, 1) 34%, rgba(255, 255, 255, 1) 63%, rgba(178, 10, 44, 1) 65%, rgba(255, 61, 100, 1) 100%)",
+					"fillStrategy": "interpolation",
+					"surfaceFill": "#00000000"
+				},
+				"projectionStepSize": 0.5,
+				"charwiseGradient": false,
+				"projectionDirection": 45,
+				"patternConf": {
+					"imgSource": null,
+					"scale": 1,
+					"opacity": 1
+				},
+				"avoidFilterClip": 0.9
+			}
+		],
+		"clipPath": {
+			"type": "rect",
+			"version": "5.3.0",
+			"originX": "left",
+			"originY": "top",
+			"left": 0,
+			"top": 0,
+			"width": 1024,
+			"height": 512,
+			"fill": {
+				"type": "linear",
+				"coords": {
+					"x1": 1,
+					"y1": 0.45,
+					"x2": 0,
+					"y2": 0.55
+				},
+				"colorStops": [
+					{
+						"color": "rgba(255,255,255,1)",
+						"offset": 0
+					},
+					{
+						"color": "rgba(255,171,145,1)",
+						"offset": 1
+					}
+				],
+				"offsetX": 0,
+				"offsetY": 0,
+				"gradientUnits": "percentage",
+				"gradientTransform": null
+			},
+			"stroke": null,
+			"strokeWidth": 0,
+			"strokeDashArray": null,
+			"strokeLineCap": "butt",
+			"strokeDashOffset": 0,
+			"strokeLineJoin": "miter",
+			"strokeUniform": false,
+			"strokeMiterLimit": 4,
+			"scaleX": 1,
+			"scaleY": 1,
+			"angle": 0,
+			"flipX": false,
+			"flipY": false,
+			"opacity": 1,
+			"shadow": null,
+			"visible": true,
+			"backgroundColor": "",
+			"fillRule": "nonzero",
+			"paintFirst": "fill",
+			"globalCompositeOperation": "source-over",
+			"skewX": 0,
+			"skewY": 0,
+			"erasable": false,
+			"rx": 0,
+			"ry": 0,
+			"selectable": true,
+			"hasControls": true
+		},
+		"background": "rgba(0,0,0,0)"
+	}
+}
