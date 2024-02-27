@@ -1,12 +1,13 @@
 {
-	"description": "Generate visually stunning golden fonts with a dashed border effect, adding an elegant and captivating touch. This golden font generator is perfect for creating mesmerizing text for various purposes, such as logos, headers, and social media posts, leaving a lasting impression.",
-	"title": "Golden Font Generator with Dashed Border | Elegant Text Effect",
-    "tags": [
-        "golden",
-        "text"
-    ],
-    "lang": "en",
-    "type": "edit",
+	"description": "Create striking 3D metallic silver fonts with a realistic and captivating effect, giving your text an industrial and modern look. This 3D metallic silver font generator is perfect for adding a sleek and stylish touch to logos, posters, and social media graphics, making your design stand out.",
+	"title": "3D Metallic Silver Font Generator | Modern Text Effect",
+	"tags": [
+		"text",
+		"golden",
+		"king"
+	],
+	"lang": "en",
+	"type": "edit",
 	"data":{
 		"version": "5.3.0",
 		"objects": [
@@ -17,9 +18,9 @@
 				"originY": "top",
 				"left": 0,
 				"top": 0,
-				"width": 1024,
-				"height": 512,
-				"fill": "rgba(0, 0, 0, 0)",
+				"width": 900,
+				"height": 1200,
+				"fill": "rgba(255,255,255,0)",
 				"stroke": null,
 				"strokeWidth": 0,
 				"strokeDashArray": null,
@@ -54,41 +55,25 @@
 				"version": "5.3.0",
 				"originX": "center",
 				"originY": "center",
-				"left": 512,
-				"top": 256,
-				"width": 505.9731,
+				"left": 450,
+				"top": 600,
+				"width": 463.8281,
 				"height": 180.8,
 				"fill": {
 					"type": "linear",
 					"coords": {
-						"x1": 177.734375,
-						"y1": 0,
-						"x2": 177.734375,
-						"y2": 180.79999999999998
+						"x1": 0,
+						"y1": 90.39999999999999,
+						"x2": 463.828125,
+						"y2": 90.39999999999999
 					},
 					"colorStops": [
 						{
-							"color": "rgba(255,224,75,1)",
+							"color": "rgba(63,65,64,1)",
 							"offset": 0
 						},
 						{
-							"color": "rgba(252,229,90,1)",
-							"offset": 0.13699999999999998
-						},
-						{
-							"color": "rgba(244,209,69,1)",
-							"offset": 0.3881
-						},
-						{
-							"color": "rgba(221,152,29,1)",
-							"offset": 0.5068
-						},
-						{
-							"color": "rgba(235,193,53,1)",
-							"offset": 0.6393
-						},
-						{
-							"color": "rgba(251,239,75,1)",
+							"color": "rgba(135,135,135,1)",
 							"offset": 1
 						}
 					],
@@ -98,24 +83,21 @@
 					"gradientTransform": null
 				},
 				"stroke": "rgb(255, 255, 255)",
-				"strokeWidth": 5,
-				"strokeDashArray": [
-					12,
-					6
-				],
+				"strokeWidth": 6,
+				"strokeDashArray": null,
 				"strokeLineCap": "butt",
 				"strokeDashOffset": 0,
 				"strokeLineJoin": "miter",
 				"strokeUniform": false,
 				"strokeMiterLimit": 4,
-				"scaleX": 1.6649,
-				"scaleY": 1.6649,
+				"scaleX": 1.5523,
+				"scaleY": 1.5523,
 				"angle": 0,
 				"flipX": false,
 				"flipY": false,
 				"opacity": 1,
 				"shadow": {
-					"color": "rgba(0, 0, 0, 0)",
+					"color": "rgb(33, 33, 33)",
 					"blur": 5,
 					"offsetX": 2,
 					"offsetY": 5,
@@ -130,7 +112,7 @@
 				"skewX": 0,
 				"skewY": 0,
 				"erasable": false,
-				"fontFamily": "LEMON MILK Medium",
+				"fontFamily": "LEMON MILK Bold",
 				"fontWeight": "normal",
 				"fontSize": 160,
 				"text": "2024",
@@ -141,7 +123,7 @@
 				"fontStyle": "normal",
 				"lineHeight": 1.16,
 				"textBackgroundColor": "",
-				"charSpacing": 149,
+				"charSpacing": 0,
 				"styles": [],
 				"direction": "ltr",
 				"path": null,
@@ -162,44 +144,44 @@
 					"blur": 0
 				},
 				"stroke0": {
-					"stroke": "rgb(255, 235, 60)",
-					"strokeWidth": 14,
+					"stroke": "#00000000",
+					"strokeWidth": 0,
 					"strokeDashArray": null,
 					"strokeLineCap": "round",
-					"strokeLineJoin": "miter",
+					"strokeLineJoin": "round",
 					"strokeMiterLimit": 4,
 					"strokeUniform": true
 				},
 				"stroke1": {
-					"stroke": "rgb(255, 255, 255)",
-					"strokeWidth": 24,
+					"stroke": "#00000000",
+					"strokeWidth": 0,
 					"strokeDashArray": null,
 					"strokeLineCap": "butt",
-					"strokeLineJoin": "miter",
+					"strokeLineJoin": "round",
 					"strokeMiterLimit": 4,
 					"strokeUniform": true
 				},
 				"projection1": {
-					"depth": 0,
-					"fill": "linear-gradient(0deg, rgba(133, 46, 8, 1) 0%, rgba(231, 161, 64, 1) 44.29%, rgba(253, 224, 92, 1) 73.52%, rgba(133, 46, 8, 1) 91.78%)",
+					"depth": 11,
+					"fill": "linear-gradient(90deg, rgba(102, 102, 102, 1) 1.37%, rgba(200, 200, 200, 1) 15.53%, rgba(255, 255, 255, 1) 25.57%, rgba(167, 167, 167, 1) 41.55%, rgba(229, 229, 229, 1) 82.65%, rgba(135, 135, 135, 1) 93.61%)",
 					"fillStrategy": "layerwise",
 					"surfaceFill": "#00000000",
 					"step": 0.5
 				},
 				"projection2": {
-					"depth": 19,
-					"fill": "linear-gradient(70deg, rgba(133, 46, 8, 1) 0%, rgba(231, 161, 64, 1) 44.29%, rgba(253, 224, 92, 1) 73.52%, rgba(133, 46, 8, 1) 91.78%)",
-					"fillStrategy": "layerwise",
+					"depth": 0,
+					"fill": "linear-gradient(to right, rgb(200, 200, 200) 0%, rgb(255, 255, 255) 100%)",
+					"fillStrategy": "interpolation",
 					"surfaceFill": "#00000000",
 					"step": 0.5
 				},
 				"projectionStepSize": 0.5,
 				"charwiseGradient": true,
-				"projectionDirection": 55,
+				"projectionDirection": 45,
 				"patternConf": {
-					"imgSource": "https://www.tinygimp.com/mystatic/texture/white-dot.png",
+					"imgSource": null,
 					"scale": 1,
-					"opacity": 0.5
+					"opacity": 1
 				},
 				"avoidFilterClip": 0.9
 			}
@@ -211,9 +193,9 @@
 			"originY": "top",
 			"left": 0,
 			"top": 0,
-			"width": 1024,
-			"height": 512,
-			"fill": "rgba(0, 0, 0, 0)",
+			"width": 900,
+			"height": 1200,
+			"fill": "rgba(255,255,255,0)",
 			"stroke": null,
 			"strokeWidth": 0,
 			"strokeDashArray": null,

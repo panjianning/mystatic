@@ -43,6 +43,23 @@
     ]
   },
   {
+    "id": "gold-dash",
+    "type": "edit",
+    "tags": [
+      "text",
+      "golden"
+    ]
+  },
+  {
+    "id": "gray-metal",
+    "type": "edit",
+    "tags": [
+      "text",
+      "silver",
+      "metal"
+    ]
+  },
+  {
     "id": "wood",
     "type": "edit",
     "tags": [
