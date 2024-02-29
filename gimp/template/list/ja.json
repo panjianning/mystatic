@@ -1,3 +1,25 @@
 [
-          {"id":"ja-cute-hello","type":"text3d","tags":["cartoon"]}
+    {
+        "id": "3d-text",
+        "type": "text3d",
+        "tags": [
+            "text",
+            "3d"
+        ]
+    },
+    {
+        "id": "bevel-text",
+        "type": "edit",
+        "tags": [
+            "text",
+            "bevel"
+        ]
+    },
+    {
+        "id": "ja-cute-hello",
+        "type": "text3d",
+        "tags": [
+            "cartoon"
+        ]
+    }
 ]
